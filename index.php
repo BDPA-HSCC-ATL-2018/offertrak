@@ -1,8 +1,7 @@
 <?php
   session_start()
-  include_once "db.php";
-  if (isset($_REQUEST['function'])){
-    $function = $_REQUEST['function'];
+  include_once $_SERVER['DOCUMENT_ROOT'] . "/offertrack/db.php"
+
   }
 
 
