@@ -33,7 +33,9 @@
    //Sign Up form
    function signup() {
      global $dbh;
-     
+     $last_name = $_REQUEST['last_name'];
+     $first_name = $_REQUEST['first_name'];
+     $filling_status = $_REQUEST['']
    }
 
  ?>
