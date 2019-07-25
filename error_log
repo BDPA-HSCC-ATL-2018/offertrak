@@ -1,0 +1,36 @@
+[25-Jul-2019 23:45:53 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:45:53 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:45:53 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:46:38 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:46:38 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:46:38 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:46:44 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:46:44 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:46:44 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:14 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:47:14 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:14 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:15 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:47:15 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:15 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:31 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:47:31 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:31 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:42 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:47:42 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:42 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:44 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:47:44 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:44 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:57 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:47:57 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:47:57 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:48:11 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:48:11 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:48:11 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:48:21 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:48:21 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:48:21 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:48:30 Europe/Berlin] PHP Notice:  Undefined variable: page_title in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 17
+[25-Jul-2019 23:48:30 Europe/Berlin] PHP Warning:  include_once(C:/xampp/htdocs/lib/db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20
+[25-Jul-2019 23:48:30 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'C:/xampp/htdocs/lib/db.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\offertrak\web-assets\tpl\app_header.php on line 20

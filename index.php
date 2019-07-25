@@ -1,6 +1,8 @@
 <?php
-  session_start()
-  include_once $_SERVER['DOCUMENT_ROOT'] . "db.php";
+  session_start();
+  include_once $_SERVER['DOCUMENT_ROOT'] . "/offertrak/web-assets/lib/db.php";
+  include_once $_SERVER['DOCUMENT_ROOT'] . "/offertrak/web-assets/tpl/app_header.php";
+  include_once $_SERVER['DOCUMENT_ROOT'] . "/offertrak/web-assets/tpl/app_nav.php";
 
   $action = isset($_REQUEST['action']) ? $_REQUEST['action'] : null;
 
@@ -18,7 +20,7 @@
       $function = $options($action);
       call_user_func($function);
     } else {
-      header("Location: forms/login.php");
+    //  header("Location: forms/login.php");
     }
 
   //I think this is basic password validation based off ww3 schools
@@ -35,7 +37,7 @@
      global $dbh;
      $last_name = $_REQUEST['last_name'];
      $first_name = $_REQUEST['first_name'];
-     $filling_status = $_REQUEST['']
+     $filling_status = $_REQUEST[''];
    }
 
  ?>
