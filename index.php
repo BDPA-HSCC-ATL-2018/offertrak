@@ -14,6 +14,12 @@
     'admin' => 'admin'
     //Dont know how to break down the whole admin thing
   );
+  if (array_key_exists($action , $options)) {
+      $function = $options($action);
+      call_user_func($function);
+    } else {
+      header("Location: forms/login.php")
+    }
 
 
  ?>
