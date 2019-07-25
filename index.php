@@ -1,6 +1,6 @@
 <?php
   session_start()
-  include_once $_SERVER['DOCUMENT_ROOT'] . "/offertrack/db.php";
+  include_once $_SERVER['DOCUMENT_ROOT'] . "db.php";
 
   $action = isset($_REQUEST['action']) ? $_REQUEST['action'] : null;
 
