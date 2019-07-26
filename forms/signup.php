@@ -1,4 +1,8 @@
-<form>
+<?php
+  include_once $_SERVER['DOCUMENT_ROOT'] . '/web-assets/tpl/app_header.php';
+  include_once $_SERVER['DOCUMENT_ROOT'] . '/web-assets/tpl/app_nav.php';
+ ?>
+
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="email@example.com">
@@ -70,4 +74,6 @@
       <button type="submit" class="btn btn-primary">Sign in</button>
     </div>
   </div>
-</form>
+<?php
+  include_once $_SERVER['DOCUMENT_ROOT'] . '/web-assets/tpl/app_footer.php';
+ ?>
